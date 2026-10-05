@@ -3,7 +3,7 @@ Resources supporting "BARC codes: general polynomial framework for coherent-stat
 
 <p align="center">
   <a href="https://arxiv.org/abs/2610.03663">
-    <img src="BARC_Code.png" width="500">
+    <img src="BARC_Code_no_text.png" width="500">
   </a>
 </p>
 
