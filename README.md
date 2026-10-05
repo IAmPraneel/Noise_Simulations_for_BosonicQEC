@@ -9,4 +9,4 @@ Resources supporting "BARC codes: general polynomial framework for coherent-stat
 
 arxiv: https://arxiv.org/abs/2610.03663
 
-(In Progress 👀)
+Note: The authors are working on uploading the resources.
